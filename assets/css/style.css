@@ -1,5 +1,7 @@
 body {
-    font-family: cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Caveat Brush', cursive;
     background-size: 100%;
 }
 
@@ -9,37 +11,38 @@ body {
     margin-right: 10%;
     text-align: center;
     padding: 2px;
-    border: 5px solid #1485ad;
+    border: 5px solid #7a52a3;
     opacity: .7;
-    background: #a366c2; 
+    background: #3da3ad; 
 }
 
 .mood{
     border: solid  3px;
     margin: 10px;
-    font-family: cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Handlee', cursive;
     font-size: 20px;
 }
 
 h1 {
     margin-top: 5%;
     padding: 1%;
-    background: #a366c2;
-    border: solid #a36 5px;
+    background: #3dffc2;
+    border: solid  #ff29a3 5px;
     font-size: 50px;
-    font-family: 'Chela One', cursive;
+    font-family: 'Kaushan Script', cursive;
 }
 
 img {
-    border: solid #a36 3px;
-    float: left;
+    border: solid #b2dbff 3px;
+    opacity: 1;
 }
 
 
 .feels{
     border: solid #ba73ab 3px;
     margin: 10px;
-    background-color: #a366c2;
+    background-color: #3da3ad;
     float: left;
 }
 

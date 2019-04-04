@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var topics = ["Happy", "Depressed", "Done", "Ugh", "Party", "Lazy", "Confident"];
+    var topics = ["Happy", "Depressed", "Done", "Ugh", "Party", "Lazy", "Confident", "Sassy", "Hangry", "Repulsed"];
 
     function createButton() {
         $("#button").empty();
