@@ -5,6 +5,13 @@ body {
     background-size: 100%;
 }
 
+p {
+    font-size: 20px;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Caveat Brush', cursive;
+}
+
 
 #container {
     margin-left: 10%;
