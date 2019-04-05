@@ -19,7 +19,7 @@ p {
     text-align: center;
     padding: 2px;
     border: 5px solid #7a52a3;
-    opacity: .7;
+    opacity: .9;
     background: #3da3ad; 
 }
 
@@ -42,7 +42,6 @@ h1 {
 
 img {
     border: solid #b2dbff 3px;
-    opacity: 1;
 }
 
 
